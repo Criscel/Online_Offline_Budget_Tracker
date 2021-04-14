@@ -13,10 +13,14 @@ This was set to run in  "localhost:3000" in the internet browser after running "
 To be able to deploy to Heroku, make sure that the application is working perfecetly in local before creating a database in MongoDB Atlas and make sure to connect the new database to Heroku.
 
 ## Usage
-[Add funds while application is offlline](assets/Offline.PNG)
-[Application went online after adding fund](assets/0nline.PNG)
-[Subtracting funds during offline](assets/offline_subtract.PNG)
-[Funds subtracted after going online](assets/online_subtract.PNG)
+*[Add funds while application is offlline](assets/Offline.PNG)
+![Add funds while application is offlline](assets/Offline.PNG)<br>
+*[Application went online after adding fund](assets/Online.PNG)
+![Application went online after adding fund](assets/Online.PNG)<br>
+*[Subtracting funds during offline](assets/offline_subtract.PNG)
+![Subtracting funds during offline](assets/offline_subtract.PNG)<br>
+*[Funds subtracted after going online](assets/online_subtract.PNG)
+![Funds subtracted after going online](assets/online_subtract.PNG)<br>
 
 ## Credits
 *[Mongodb / Mongo Atlas](https://www.mongodb.com/cloud/atlas/)<br>
